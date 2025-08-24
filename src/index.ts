@@ -183,7 +183,7 @@ async function main() {
         // wait 200ms
         await wait(200);
     }
-    
+
 }
 
 main()
